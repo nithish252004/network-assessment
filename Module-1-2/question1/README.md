@@ -1,32 +1,34 @@
-\# Consider a case, a folder has multiple files and how would copy it to destination machine path (Try using SCP, cp options in Linux)
-
-
+# Question 1  
+## Copying a Folder with Multiple Files to a Destination Path (Using `cp` and `scp` in Linux)
 
 ---
 
 
+Consider a scenario where a folder contains multiple files and needs to be copied to a destination path. Demonstrate how to perform this operation using both `cp` (local copy) and `scp` (remote copy) commands in Linux.
 
-\## Concepts Learned
+---
 
-Learned about cp and scp command.
+## Concepts Learned
 
-cp (copy) command , it is used for copying the files in the same machine.
+### cp Command (Local Copy)
 
-SCP (Secure Copy Protocol) , it is used to copying the files in the different machines which is being connected to the same network.
+The `cp` command is used to copy files and directories within the same machine.
 
-scp -r  remote\_username@remote\_ip /destination/path : here -r is used for the recursive searching.. for example, if we need to search a files which is in the directory of directories.
+To copy an entire folder along with all its subdirectories and files, the `-r` (recursive) option must be used:
 
+### SCP Command 
 
+The `scp` command is usded to copy the files from the another machine over the same network
 
+To copy an entire folder along with all its subdirectories and files, the `-r`
 
+## Output Screenshot
 
-\## Output Screenshot
+### Using cp command
+![Using cp](./Picture1.png)
 
+### Using scp command
+![Using scp](./SCP.png)
 
-
-!\[By Using cp command](Picture1.png)
-
-!\[By Using scp command](SCP.png)
-
-!\[Saved](SavedSCP.png)
-
+### Saved in Destination
+![Saved SCP](./SavedSCP.png)
