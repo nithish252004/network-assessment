@@ -16,11 +16,11 @@ The `sftp` command is also used to transfer files among machine but with SSH Enc
 
 ## Output Screenshot
 
-### Using cp command
+### Activating SFTP server
 ![Output 1](./FTPandSFTP1.png)
 
-### Using scp command
-![Output 2](./FTPandSFTP2.png)
+### File Transfer Using SFTP (PUT,GET)
+![Output 2](./FTPandSFTP3.png)
 
-### Saved in Destination
-![Output 3](./FTPandSFTP3.png)
+### FTP Localhost
+![Output 3](./FTPandSFTP2.png)
