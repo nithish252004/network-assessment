@@ -27,5 +27,3 @@
 ### Cisco Packet tracer simulation mode PDU Details
 ![OP2](./2.2.png)
 
-### Saved in Destination
-![Saved SCP](./SavedSCP.png)
