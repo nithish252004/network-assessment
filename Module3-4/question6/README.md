@@ -25,6 +25,6 @@
 ### Modifying the IP for Troubleshooting issue using ping
 ![OP6](./6.6.png)
 
-### Modifying the IP for Troubleshooting issue using TraceRoute
+### Host not reachable (So we can identify the issue with the host machine)
 ![OP7](./6.7.png)
 
