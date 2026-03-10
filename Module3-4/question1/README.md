@@ -13,7 +13,7 @@ It will connect `end devices` . It works based on the MAC address of the system.
 
 ### MAC
 
-Physical address of the network card. CAM(COntent Addressable Memory) table will maintains the MAC address of the system. 
+Physical address of the network card. CAM(Content Addressable Memory) table will maintains the MAC address of the system. 
 
 
 ## Output Screenshot
