@@ -34,8 +34,7 @@ During the analysis of a ping to the college WiFi router:
 ### Ping to my College Wifi Router and analysing the ARP Packets
 ![OP2](./1.2.png)
 
-Who has 10.11.128.1 ?
-
 ![OP3](./1.3.png)
 
+### ARP Table
 ![OP4](./1.4.png)
