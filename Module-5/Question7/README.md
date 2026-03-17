@@ -48,5 +48,7 @@ In my topology, the PCs use private IP addresses (192.168.1.x) and the router tr
 Output Screenshot
 Before NAT and After NAT Analysis
 ![OP4](./7.4.png)
+
 ![OP5](./7.5.png)
+
 ![OP6](./7.6.png)
