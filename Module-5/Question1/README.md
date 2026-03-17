@@ -30,7 +30,7 @@ During the analysis of a ping to the college WiFi router:
 ### Filtering the ARP packets in WireShark
 ![OP1](./1.1.png)
 
-## ARP Request Analysis
+
 ### Ping to my College Wifi Router and analysing the ARP Packets
 ![OP2](./1.2.png)
 
