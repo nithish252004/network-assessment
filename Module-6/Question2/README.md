@@ -13,7 +13,7 @@ Use the ip route command and verify connectivity using ping and traceroute.
 
 PC0 ---- Router1 ---- Router2 ---- PC1
 
-To copy an entire folder along with all its subdirectories and files, the `-r` (recursive) option must be used:
+
 
 ### Goal Of the Question
 
