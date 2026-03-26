@@ -72,8 +72,6 @@ And in Switch 0
 
 it is set to 99
 
-![OP14](./4.14.png)
-
 So Native VLAN mismatch is found. So Change the switch 1 NATIVE VLAN to 99 in order to resolve the mismatch issue.. 
 
 
