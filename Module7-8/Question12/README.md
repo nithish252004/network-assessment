@@ -25,25 +25,3 @@ Allowing only the source IPs 192.168.10.x
 
 
 
-HTTP and FTP connection was allowed before applying ACL
-
-![OP4](./11.4.png)
-
-Now the problem is being solved by utilizing the concept of inter VLAN routing 
-
-![OP4](./11.5.png)
-
-After applying ACL :
-
-
-![OP6](./11.6.png)
-
-FTP is blocked Because of applying ACL
-
-
-![OP7](./11.7.png)
-
-
-
-
-
